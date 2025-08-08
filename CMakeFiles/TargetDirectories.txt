@@ -1,0 +1,3 @@
+/home/polonius/symulacje/lumen-tortile/CMakeFiles/lumen-tortile.dir
+/home/polonius/symulacje/lumen-tortile/CMakeFiles/edit_cache.dir
+/home/polonius/symulacje/lumen-tortile/CMakeFiles/rebuild_cache.dir
